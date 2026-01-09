@@ -8,6 +8,7 @@ This repository contains two beginner-level data analysis projects created for l
 
 ###  Airbnb Data Analysis
 This project focuses on analyzing Airbnb listings data to explore factors influencing pricing and availability.
+**Colab Notebook:** :(https://colab.research.google.com/drive/1Cwy5Ex1icxhVmfWhE9ygIrct_3AnKlPa?usp=sharing)
 
 **Key steps:**
 - data cleaning and preprocessing  
